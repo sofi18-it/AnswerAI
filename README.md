@@ -1,2 +1,15 @@
-# AnswerAI
-A modern AI assistant built with React, FastAPI and OpenRouter. Designed as a long-term open-source project with incremental releases.
+# 🤖 AnswerAI
+
+AI assistant built from scratch.
+
+## Tech Stack
+
+- React
+- TypeScript
+- FastAPI
+- OpenRouter
+
+---
+
+Status:
+🚧 In Development
